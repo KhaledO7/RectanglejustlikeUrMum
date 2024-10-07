@@ -24,9 +24,6 @@ public class Rectangle
         width = rectWidth;
     }
 
-
-
-
     //This is the constructor to create a Rectangle object with equal width and length (a square)
     public Rectangle(int side)
     {
