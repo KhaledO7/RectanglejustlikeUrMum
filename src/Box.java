@@ -23,7 +23,7 @@ public class Box
         return length * width * height;
     }
 
-    public boolean anySideLongerThan(int side)
+    public boolean anySideLongerThan(double side)
     {
         if (length > side || width > side || height > side)
         {
